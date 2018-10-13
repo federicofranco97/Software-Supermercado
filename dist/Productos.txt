@@ -1,0 +1,15 @@
+LACTEOS
+Leche 40
+Yogurt 36
+Queso 20
+Crema 15
+CARNES
+Lomo 200
+Bondiola 180
+Asado 250
+Cuadril 200
+VERDURAS
+Tomate 20
+Lechuga 15
+Morron 30
+Palta 50
